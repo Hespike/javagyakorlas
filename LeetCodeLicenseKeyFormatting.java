@@ -3,7 +3,7 @@ You are also given an integer k.  We want to reformat the string s such that eac
 which could be shorter than k but still must contain at least one character. Furthermore, there must be a dash inserted between two groups,
 and you should convert all lowercase letters to uppercase.  Return the reformatted license key. */
 
-class Megoldas {
+class Solution {
     public String licenseKeyFormatting(String S, int K) {
         
         StringBuilder sb = new StringBuilder();
