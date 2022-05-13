@@ -2,7 +2,7 @@
 You may assume that each input would have exactly one solution, and you may not use the same element twice. 
 You can return the answer in any order.*/
 
-class Megoldas {
+class Solution {
     public int[] twoSum(int[] nums, int target) {
         int finenums[];
         finenums = new int[2];
